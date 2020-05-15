@@ -21,7 +21,7 @@
     "Eigen/*",
     "Eigen/**/*",
     "unsupported/*",
-	"unsupported/**/*"
+    "unsupported/**/*"
   ],
   "xcconfig": {
     "HEADER_SEARCH_PATHS": "$(inherited) \"$(PODS_ROOT)/EigenCPPCocoa\""

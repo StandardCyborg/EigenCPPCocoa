@@ -1,6 +1,6 @@
 {
   "name": "EigenCPPCocoa",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "summary": "C++ Matrix Library",
   "homepage": "http://eigen.tuxfamily.org/index.php",
   "license": {
@@ -9,12 +9,12 @@
   },
   "authors": "Eigen Contributors",
   "platforms": {
-    "osx": "10.10",
-    "ios": "8.0"
+    "osx": "11.0",
+    "ios": "13.0"
   },
   "source": {
     "git": "https://gitlab.com/libeigen/eigen.git",
-    "tag": "3.3.0"
+    "tag": "3.4.0"
   },
   "compiler_flags": "-DEIGEN_MPL2_ONLY",
   "preserve_paths": [
